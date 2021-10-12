@@ -3,6 +3,7 @@
 * Online Shop is a one page react application
 * Here customer can buy their selected online products
 * Customers can see all orders and Price
+* Customer can search Products
 * customer can switch Theme color
 
 #### Usage Technology:
