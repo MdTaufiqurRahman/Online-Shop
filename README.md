@@ -1,4 +1,4 @@
-### This project is deployed at :https://courses-hub.netlify.app/
+### This project is deployed at : https://my-online-shops.netlify.app/
 #### Online Shop Overview
 * Online Shop is a one page react application
 * Here customer can buy their selected online products
