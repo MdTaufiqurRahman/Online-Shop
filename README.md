@@ -1,6 +1,22 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### This project is deployed at :https://courses-hub.netlify.app/
+#### Online Shop Overview
+* Online Shop is a one page react application
+* Here customer can buy their selected online products
+* Customers can see all orders and Price
+* customer can switch Theme color
 
-## Available Scripts
+#### Usage Technology:
+* React JS
+* React Router
+* React Hooks
+* React Bootstrap
 
-In the project directory, you can run:
+#### Usage Tools:
+* Netlify Hosting
+* VS Code
+* Git
+* Github
 
+If you happen to love this project,please leave a ⭐ on the repo. That'll keep me motivated. Thanks!
+
+Contributions are most welcomed! 💖
